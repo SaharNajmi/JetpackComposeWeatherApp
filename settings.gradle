@@ -14,3 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "WeatcherApp"
 include ':app'
+include ':core'
+include ':data'
+include ':presentation'
+include ':remote'
+include ':shared'
